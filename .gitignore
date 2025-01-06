@@ -3,5 +3,5 @@ pod copy 2.md
 ReplicaSets.md
 pod copy 3.md
 pod copy 4.md
-service.md
 imperative-commands.md
+scheduling.md
