@@ -1,7 +1,10 @@
-Deployments.md
+
 pod copy 2.md
 ReplicaSets.md
 pod copy 3.md
 pod copy 4.md
 imperative-commands.md
 scheduling.md
+logging-and-monitoring.md
+application-lifecycle-management.md
+Cluster-Maintenance.md
