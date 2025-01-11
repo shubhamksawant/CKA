@@ -3,7 +3,6 @@ pod copy 2.md
 pod copy 3.md
 pod copy 4.md
 imperative-commands.md
-
 logging-and-monitoring.md
 application-lifecycle-management.md
 storage.md
